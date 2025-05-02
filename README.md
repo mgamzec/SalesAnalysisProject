@@ -19,7 +19,8 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-<img src="images/1_customer_segementation.png" width="50%">
+![image](https://github.com/user-attachments/assets/7dc9b18a-39e1-4dfc-a980-a82acb827702)
+
 
 📊 **Key Findings:**
 - High-value segment (25% of customers) drives 66% of revenue ($135.4M)
@@ -40,7 +41,8 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-<img src="images/2_cohort_analysis.png" alt="Cohort Analysis" style="width: 50%; height: auto;">
+![image](https://github.com/user-attachments/assets/2d800621-c706-4679-aeb6-b3dbfdc27f07)
+
 
 📊 **Key Findings:**
 - Revenue per customer shows an alarming decreasing trend over time
@@ -61,7 +63,8 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-<img src="images/3_customer_churn_cohort_year.png" alt="Customer Churn by Cohort Year" style="width: 50%; height: auto;">
+![image](https://github.com/user-attachments/assets/2d9a38ee-932f-42a7-9db3-90b271090aa7)
+
 
 📊 **Key Findings:**  
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.  
@@ -90,7 +93,3 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
    - Focus on targeted win-back campaigns for high-value churned customers
    - Implement proactive intervention system for at-risk customers before they lapse
 
-## Technical Details
-- **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL, DBeaver, PGadmin
-- **Visualization:** ChatGPT
